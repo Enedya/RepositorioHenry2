@@ -1,2 +1,1 @@
-# RepositorioHenry2
-Secons Homework Practice
+segunda practica de la tarea m2
